@@ -1,0 +1,20 @@
+* { 
+	background-color: #8EE5EE;
+}
+
+.main { 
+	text-align: center;
+}
+
+.picList li { 
+	list-style-type: none;
+	padding-top: 30px;
+}
+
+.pics { 
+	border-radius: 50%;
+}
+
+
+
+
